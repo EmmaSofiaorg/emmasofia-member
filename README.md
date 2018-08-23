@@ -1,6 +1,11 @@
-# bli-medlem
+# EmmaSofia's memberhub
 
-> A Vue.js project
+> A subsite of emmasofia where members can change their membership
+
+## Developing
+
+To be able to test this application, you need to run the backend server as well.
+Contact [Leif Riksheim](mailto:riksheim.leif@gmail.com) to get access
 
 ## Build Setup
 
