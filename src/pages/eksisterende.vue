@@ -109,7 +109,7 @@ import countries from './countries';
 import PayPalButton from '../components/paypal-button.vue';
 
 // Use heroku in production, localhost in dev mode. You need to run the node server locally to test
-const serverURL = process.env.NODE_ENV === 'production' ? 
+const serverURL = process.env.NODE_ENV === 'production' ?
 'https://emmasofia.herokuapp.com' : 'http://localhost:5000';
 
 export default {
